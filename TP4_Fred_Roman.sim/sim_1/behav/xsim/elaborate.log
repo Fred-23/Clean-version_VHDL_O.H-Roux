@@ -1,0 +1,22 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot test_bench_behav xil_defaultlib.test_bench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture archidecodeur_affichage of entity xil_defaultlib.decodeur_affichage [decodeur_affichage_default]
+Compiling architecture archibcd of entity xil_defaultlib.decodeur_BCD [decodeur_bcd_default]
+Compiling architecture archimodulo_3 of entity xil_defaultlib.modulo_3 [modulo_3_default]
+Compiling architecture archidecodeur2_4 of entity xil_defaultlib.decodeur2_4 [decodeur2_4_default]
+Compiling architecture behavioral of entity xil_defaultlib.source_file [source_file_default]
+Compiling architecture behavioral of entity xil_defaultlib.test_bench
+Built simulation snapshot test_bench_behav
